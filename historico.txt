@@ -1,2 +1,2 @@
 Iniciando back-end do GoBarber
-"configurando sequelize"
+"Conceitos JWT"
